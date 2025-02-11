@@ -13,4 +13,4 @@ _A Kaggle competition that required predicting which passengers were transported
 - **Model Selection & Optimization** – Implemented and fine-tuned powerful classifiers, including XGBoost, LightGBM, and CatBoost, using Stratified K-Fold Cross-Validation.
 - **Threshold Tuning for Class Imbalance** – Optimized classification thresholds to align predicted probabilities with real-world class distribution.
 
-![Spaceship Titanic](/assets/img/Spaceship Titanic model performance.jpg)
+![Spaceship Titanic](/assets/img/Spaceship_Titanic _model _performance.jpg)
