@@ -6,7 +6,7 @@
 - B.Eng. in Artificial Intelligence – Systems & Technologies | The Chinese University of Hong Kong (_Sept 2019 - July 2023_)	
 
 ## Projects
-### Spaceship Titanic: Predicting Passenger Fate with Machine Learning 
+### [Spaceship Titanic: Predicting Passenger Fate with Machine Learning](https://github.com/JeffereyWu-AI/Spaceship-Titanic-Kaggle) 
 _A Kaggle competition that required predicting which passengers were transported to an alternate dimension._
 - **Exploratory Data Analysis (EDA)** – Uncovered patterns in missing values, passenger demographics, and spending habits on the spaceship.
 - **Feature Engineering** – Engineered new features such as family grouping, cabin location, and spending behavior to enhance model performance.
