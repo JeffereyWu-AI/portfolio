@@ -1,11 +1,26 @@
 # AI Engineer
 
-#### Technical Skills: Python, C++, React, AWS
+#### Technical Skills: Python, C++, React, AWS, LLM
 
 ## Education
 - B.Eng. in Artificial Intelligence – Systems & Technologies | The Chinese University of Hong Kong (_Sept 2019 - July 2023_)	
 
 ## Projects
+### [Build an AI Stock Sentiment Analyzer with Google Gemini](https://github.com/JeffereyWu-AI/BlueSkySentimentAnalysis) 
+_I built an AI-powered stock sentiment analyzer using Gemini-1.5 to explore how social media sentiment influences stock performance. Here’s how I did it:_
+- **Data Collection** – I gathered historical stock price data via yfinance and scraped posts mentioning specific stocks from Bluesky.
+- **AI-Powered Sentiment Analysis** – Using Gemini-1.5, I classified posts as positive, negative, or neutral and determined if they explicitly discussed a company’s stock performance.
+- **Data Visualization & Insights** – Negative sentiment often correlated with stock declines. Market reactions showed a lag effect. Investors took time to respond to sentiment shifts.
+- **Prompt**:
+Analyze the following post and determine:
+1. Whether it is related to the company, {search_term}, and relates to or discusses past, current, or future stock performance of {search_term} explicitly.
+2. If related, classify the sentiment as positive, negative, or neutral.
+Post: "{content}"
+_I used "Tesla Inc" as an example._
+
+![](assets/img/BlueSkySentimentAnalysis_sentiment distribution.png)
+![](assets/img/BlueSkySentimentAnalysis_daily return vs negative sentiment score.png)
+
 ### [Predicting user choices based on real-world LLM chatbot conversations](https://github.com/JeffereyWu-AI/LLM-Classification-Finetuning-Kaggle) 
 _Users interact with two anonymous LLMs and select their preferred response. The goal is to build a model that predicts which response a user will favor, enhancing AI's ability to generate human-aligned outputs._
 - **Model** – Fine-tuned DeBERTa V3 to compare response embeddings.
