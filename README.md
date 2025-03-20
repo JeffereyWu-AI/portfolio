@@ -6,6 +6,15 @@
 - B.Eng. in Artificial Intelligence – Systems & Technologies | The Chinese University of Hong Kong (_Sept 2019 - July 2023_)	
 
 ## Projects
+### [Building an LLM AI Chatbot with Google Gemini API](https://github.com/JeffereyWu-AI/gemini-ai-chatbot) 
+_A lightweight and interactive AI chatbot powered by Google Gemini API and built with Vanilla JavaScript. This project enables intelligent conversations with an LLM model while providing a smooth user experience with a modern UI._
+- **Large Language Model (LLM) Integration** – Powered by Google Gemini API (gemini-1.5-flash) for natural and contextual responses.
+- **Typing Effect Simulation** – Creates a more human-like chat experience.
+- **File Upload Support** – Users can share images and files for a richer interaction.
+- **Light/Dark Mode** – Customizable UI for better accessibility.
+
+![](assets/img/gemini-ai-chatbot.png)
+
 ### [Build an AI Stock Sentiment Analyzer with Google Gemini](https://github.com/JeffereyWu-AI/BlueSkySentimentAnalysis) 
 _I built an AI-powered stock sentiment analyzer using Gemini-1.5 to explore how social media sentiment influences stock performance. Here’s how I did it:_
 - **Data Collection** – I gathered historical stock price data via yfinance and scraped posts mentioning specific stocks from Bluesky.
