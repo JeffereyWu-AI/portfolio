@@ -6,6 +6,16 @@
 - B.Eng. in Artificial Intelligence – Systems & Technologies | The Chinese University of Hong Kong (_Sept 2019 - July 2023_)	
 
 ## Projects
+### [LLM-Powered Multilingual Translation Service](https://github.com/JeffereyWu-AI/Gemini-Multilingual-Translation) 
+_A fast, scalable translation service powered by Google's Gemini 2.0 Flash model. This full-stack solution combines modern web development with cutting-edge AI to deliver high-quality translations in multiple languages._
+- **Backend** – FastAPI (Python) for high-performance API endpoints.
+- **AI Engine** – Google LLM Gemini 2.0 Flash for fast, accurate translations.
+- **Database** – SQLAlchemy ORM with PostgreSQL for reliable data storage.
+- **Frontend** – Bootstrap 5 responsive interface + Jinja2 templating.
+
+![](assets/img/gemini-translation-service.png)
+![](assets/img/gemini-translation-results.png)
+
 ### [Building an LLM AI Chatbot with Google Gemini API](https://github.com/JeffereyWu-AI/gemini-ai-chatbot) 
 _A lightweight and interactive AI chatbot powered by Google Gemini API and built with Vanilla JavaScript. This project enables intelligent conversations with an LLM model while providing a smooth user experience with a modern UI._
 - **Large Language Model (LLM) Integration** – Powered by Google Gemini API (gemini-1.5-flash) for natural and contextual responses.
