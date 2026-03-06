@@ -6,6 +6,14 @@
 - B.Eng. in Artificial Intelligence – Systems & Technologies | The Chinese University of Hong Kong (_Sept 2019 - July 2023_)	
 
 ## Projects
+### [AI Resume Analysis & Optimization Assistant](https://github.com/JeffereyWu-AI/resume-ai) 
+_An AI-powered web application that analyzes resumes against specific job descriptions and provides ATS-style scoring and optimization suggestions._
+- **Job-Specific Resume Optimization** – Users can input a target job title and job description, allowing the AI to generate tailored feedback based on the requirements of the specific role.
+- **Structured Feedback & Actionable Insights** – The system provides categorized suggestions including strengths and improvement areas, with concise explanations and concrete recommendations.
+- **Frontend** – React, TypeScript, Tailwind CSS, React Router
+- **LLM Model** – Claude Sonnet 4.6
+- **Backend** – Puter.js
+
 ### [LLM-Powered Multilingual Translation Service](https://github.com/JeffereyWu-AI/Gemini-Multilingual-Translation) 
 _A fast, scalable translation service powered by Google's Gemini 2.0 Flash model. This full-stack solution combines modern web development with cutting-edge AI to deliver high-quality translations in multiple languages._
 - **Backend** – FastAPI (Python) for high-performance API endpoints.
