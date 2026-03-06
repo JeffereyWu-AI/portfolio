@@ -14,6 +14,8 @@ _An AI-powered web application that analyzes resumes against specific job descri
 - **LLM Model** – Claude Sonnet 4.6
 - **Backend** – Puter.js
 
+![](assets/img/resume-ai-puter.png)
+
 ### [LLM-Powered Multilingual Translation Service](https://github.com/JeffereyWu-AI/Gemini-Multilingual-Translation) 
 _A fast, scalable translation service powered by Google's Gemini 2.0 Flash model. This full-stack solution combines modern web development with cutting-edge AI to deliver high-quality translations in multiple languages._
 - **Backend** – FastAPI (Python) for high-performance API endpoints.
